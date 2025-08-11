@@ -181,8 +181,7 @@ git --version  # Ensure Git is installed
 - Industry case studies and whitepapers
 
 ### Support
-- **Course Instructor**: [Instructor Email]
-- **Discussion Forum**: [Course Forum Link]
+- **Course Instructor**: Dr. Neeru Jindal[neeru.jindal@thapar.edu]
 
 ## Important Notes
 
